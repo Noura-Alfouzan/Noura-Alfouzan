@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Noura Alfouzan
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning... 
-- 💞️ I’m looking to collaborate on open source projects
 - 📫 Email: Noura-Alfouzan@hotmail.com
 
 <!---
